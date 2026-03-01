@@ -15,7 +15,7 @@ pipeline {
                sh """
                 set -eu
                 chmod +x ./scripts/push_metrics.sh
-                ./scripts/push_metrics.sh '${params.INPUT}'
+                ./scripts/push_metrics.sh '${params.INPUT.trim()}'
                """
             }
         }
