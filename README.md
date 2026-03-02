@@ -11,7 +11,7 @@ Esta PoC valida el flujo completo de observabilidad aplicado a procesos CI.
 
 ## 🏗 Arquitectura
 
-![Arquitectura CI Observability](/docs/architecture.png)
+![Arquitectura CI Observability](./docs/architecture.png)
 
 ---
 
