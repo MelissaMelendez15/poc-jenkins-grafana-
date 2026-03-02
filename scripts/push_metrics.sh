@@ -8,6 +8,7 @@ set -euo pipefail
 #   ./scripts/push_metrics.sh 50
 #   ./scripts/push_metrics.sh 90 http://obs-pushgateway:9091
 
+
 INPUT_VAL="${1:-}"
 PUSHGATEWAY_URL="${2:-http://obs-pushgateway:9091}"
 
