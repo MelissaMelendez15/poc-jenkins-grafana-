@@ -59,3 +59,7 @@ La siguiente fase consistirá en instrumentar métricas reales del pipeline, tal
 - Análisis de percentiles (p95)
 
 El objetivo es convertir esta PoC en un módulo de Observabilidad de Rendimiento en CI con enfoque SRE.
+
+## 👩‍💻 Autor
+
+Hecho con ❤️ por Melissa Melendez · DevOps & Cloud
